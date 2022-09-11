@@ -1,3 +1,5 @@
+<img align = "center" src="imgs/Tech Students Project.jpg">
+
 <h1 align = "center">PROJETO NLW ROCKETSEAT</h1>
 
 # Index
