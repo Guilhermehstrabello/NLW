@@ -8,7 +8,7 @@
 ---
 # About
 
-Esse projeto é um agregador de links para procurar pessoas para jogar junto
+Esse projeto é um agregador de links para procurar pessoas para jogar junto, criar amizades e etc.
 
 ---
 # Technologies
