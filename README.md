@@ -19,3 +19,7 @@ Esse projeto é um agregador de links para procurar pessoas para jogar junto, cr
 - [CSS3/SASS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+---
+# Aulas
+
+Aqui vou mostrar o progresso do projeto ao decorrer das 5 aulas
