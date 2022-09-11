@@ -1,11 +1,10 @@
-<img align = "center" src="imgs/Tech Students Project.jpg">
+<img align = "center" src="imgs/Landing_NLW.png">
 
 <h1 align = "center">PROJETO NLW ROCKETSEAT</h1>
 
 # Index
    * [Sobre](#sobre)
    * [Tecnologias](#tecnologias)
-   * [Projeto](#projeto)
    * [Aulas](#aulas)
 
 ---
@@ -20,4 +19,3 @@ Esse projeto é um agregador de links para procurar pessoas para jogar junto, cr
 - [CSS3/SASS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-# Projeto
