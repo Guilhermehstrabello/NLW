@@ -25,7 +25,5 @@ Esse projeto é um agregador de links para procurar pessoas para jogar junto, cr
 Aqui vou mostrar o progresso do projeto ao decorrer das 5 aulas
 
 Aula 02 (aula 01 não teve código)
-
-<img src="Screenshot (40).png">
-
 A gente fez a estruturação da página inteira, colocando a parte dos games, streamers e as redes sociais.
+<img src="Screenshot (40).png">
