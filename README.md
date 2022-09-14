@@ -26,4 +26,4 @@ Aqui vou mostrar o progresso do projeto ao decorrer das 5 aulas
 
 Aula 02 (aula 01 não teve código)
 
-img
+<img src="Screenshot (40).png">
