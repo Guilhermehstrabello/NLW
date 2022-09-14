@@ -23,3 +23,7 @@ Esse projeto é um agregador de links para procurar pessoas para jogar junto, cr
 # Aulas
 
 Aqui vou mostrar o progresso do projeto ao decorrer das 5 aulas
+
+Aula 02 (aula 01 não teve código)
+
+img
