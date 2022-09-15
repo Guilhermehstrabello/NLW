@@ -26,7 +26,7 @@ Aqui vou mostrar o progresso do projeto ao decorrer das 5 aulas
 
 Aula 02 (aula 01 não teve código)
 
-Nessa aula a gente fez a estruturação da página inteira, colocando a parte dos games, streamers e as redes sociais.
+Nessa aula a gente fez a estruturação da página inteira com HTML, colocando links, parte dos games, streamers e as redes sociais.
 
 <img src="imgs/Screenshot (40).png">
 <img src="imgs/Screenshot (41).png">
