@@ -3,13 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    text-align: center;
+}
 header img{
     width: 120px;
-    display: grid;
     gap: 32px;
     border-radius: 50%;
-    display: block;
-    margin: 32px auto;
 }
 
 ul{
