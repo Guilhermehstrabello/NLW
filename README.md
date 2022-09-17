@@ -5,7 +5,7 @@
 # Index
    * [Sobre](#sobre)
    * [Tecnologias](#tecnologias)
-   * [Final](#Final)
+   * [Link](#Link)
 
 ---
 # Sobre
@@ -19,5 +19,6 @@ Esse projeto é um agregador de links para mostrar os jogos, streamers que eu ma
 - [CSS3/SASS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
-# Final
+# Link
 
+- [Link do Projeto](https://nlw-iota.vercel.app/)
