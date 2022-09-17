@@ -1,4 +1,4 @@
-<img align = "center" src="imgs/Landing_NLW.png">
+<img align = "center" src="imgs/Project.png">
 
 <h1 align = "center">PROJETO NLW ROCKETSEAT</h1>
 
