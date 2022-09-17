@@ -5,7 +5,7 @@
 # Index
    * [Sobre](#sobre)
    * [Tecnologias](#tecnologias)
-   * [Minha versão](#Minha versão)
+   * [Minha versão](#Minha versao)
 
 ---
 # Sobre
