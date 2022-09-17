@@ -18,7 +18,7 @@ Com esse projeto da Rocketseat aprendi várias coisas novas, exemplos, criar ani
 Obrigado ❤️ [Maykbrito](https://github.com/maykbrito)
 
 ---
-# 💻 Tecnologias
+# 🔨 Tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
