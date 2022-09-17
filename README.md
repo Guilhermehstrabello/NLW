@@ -21,7 +21,7 @@ Obrigado ❤️ [Maykbrito](https://github.com/maykbrito)
 # 💻 Tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3/SASS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 # 🔗 Link
