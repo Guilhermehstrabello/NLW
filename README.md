@@ -19,5 +19,5 @@ Esse projeto é um agregador de links para mostrar os jogos, streamers que eu ma
 - [CSS3/SASS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
-# Final 
+# Minha versão
 
