@@ -10,7 +10,7 @@
 ---
 # Sobre
 
-Esse projeto é um agregador de links para procurar pessoas para jogar junto, criar amizades e etc.
+Esse projeto é um agregador de links para mostrar os jogos, streamers que eu mais gosto e como podemos nos conectamos.
 
 ---
 # Tecnologias
