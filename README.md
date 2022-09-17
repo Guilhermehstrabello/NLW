@@ -13,6 +13,10 @@
 
 Esse projeto é um agregador de links para mostrar os jogos, streamers que eu mais gosto e como podemos nos conectamos.
 
+Com esse projeto da Rocketseat aprendi várias coisas novas, como usar animações, a tag section do HTML, criar bordas em gradiente, a função :nth-child().Projeto muito bacana e me agregou muito!!
+
+Obrigado ❤️ [Maykbrito](https://github.com/maykbrito)
+
 ---
 # 💻 Tecnologias
 
