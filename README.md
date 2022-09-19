@@ -9,7 +9,7 @@
    * [Contato](#contato)
     
 ---
-# 📖 Sobre
+#  Sobre
 
 Esse projeto é um agregador de links para mostrar os jogos, streamers que eu mais gosto e como podemos nos conectamos.
 
