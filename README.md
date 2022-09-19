@@ -3,10 +3,10 @@
 <h1 align = "center">PROJETO NLW ROCKETSEAT</h1>
 
 # 📌 Index
-   * [Sobre](# Sobre)
-   * [Tecnologias](# Tecnologias)
+   * [Sobre](#Sobre)
+   * [Tecnologias](#Tecnologias)
    * [Link](#Link)
-   * [Contato](# Contato)
+   * [Contato](#Contato)
 
 ---
 # 📖 Sobre
