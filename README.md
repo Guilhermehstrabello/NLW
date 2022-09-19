@@ -6,11 +6,11 @@
     [Sobre](#sobre)
     [Tecnologias](#tecnologias)
     [Link](#link)
-    [Contato](# contato)
+    [Contato](#contato)
     
 
 ---
-# 📖 Sobre
+## 📖 Sobre
 
 Esse projeto é um agregador de links para mostrar os jogos, streamers que eu mais gosto e como podemos nos conectamos.
 
@@ -19,16 +19,16 @@ Com esse projeto da Rocketseat aprendi várias coisas novas, exemplos, criar ani
 Obrigado ❤️ [Maykbrito](https://github.com/maykbrito)
 
 ---
-# 🔨 Tecnologias
+## 🔨 Tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
-# 🔗 Link
+## 🔗 Link
 
 - [Link do Projeto](https://nlw-iota.vercel.app/)
 
 ---
-# 📧 Contato
+## 📧 Contato
 - gui.strabehonorio@outlook.com
