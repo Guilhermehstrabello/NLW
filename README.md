@@ -30,4 +30,4 @@ Obrigado ❤️ [Maykbrito](https://github.com/maykbrito)
 
 ---
 # 📧 Contato
-gui.strabehonorio@outlook.com
+- gui.strabehonorio@outlook.com
